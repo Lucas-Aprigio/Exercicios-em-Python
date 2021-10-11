@@ -1,5 +1,5 @@
-# Projetos-em-Python 🖱
-​	Projetos simples em Python
+# Exercícios-em-Python 🖱
+​	Exercícios simples em Python
 
 ✔Dicionários 
 ✔Listas
